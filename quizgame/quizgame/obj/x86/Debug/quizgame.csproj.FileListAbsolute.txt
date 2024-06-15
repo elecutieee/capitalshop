@@ -1,0 +1,23 @@
+C:\Users\elebo\AppData\Local\Temporary Projects\quizgame\obj\x86\Debug\quizgame.Form1.resources
+C:\Users\elebo\AppData\Local\Temporary Projects\quizgame\obj\x86\Debug\quizgame.Properties.Resources.resources
+C:\Users\elebo\AppData\Local\Temporary Projects\quizgame\obj\x86\Debug\quizgame.csproj.GenerateResource.Cache
+C:\Users\elebo\AppData\Local\Temporary Projects\quizgame\bin\Debug\quizgame.exe
+C:\Users\elebo\AppData\Local\Temporary Projects\quizgame\bin\Debug\quizgame.pdb
+C:\Users\elebo\AppData\Local\Temporary Projects\quizgame\obj\x86\Debug\quizgame.exe
+C:\Users\elebo\AppData\Local\Temporary Projects\quizgame\obj\x86\Debug\quizgame.pdb
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\obj\x86\Debug\quizgame.exe
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\obj\x86\Debug\quizgame.pdb
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\bin\Debug\quizgame.exe
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\bin\Debug\quizgame.pdb
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\obj\x86\Debug\quizgame.Form1.resources
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\obj\x86\Debug\quizgame.Properties.Resources.resources
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\obj\x86\Debug\quizgame.csproj.GenerateResource.Cache
+C:\Users\elebo\OneDrive\Desktop\eleserbacat\quizgame\quizgame\obj\x86\Debug\quizgame.csprojResolveAssemblyReference.cache
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\obj\x86\Debug\quizgame.exe
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\obj\x86\Debug\quizgame.pdb
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\obj\x86\Debug\quizgame.csprojResolveAssemblyReference.cache
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\obj\x86\Debug\quizgame.Form1.resources
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\obj\x86\Debug\quizgame.Properties.Resources.resources
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\obj\x86\Debug\quizgame.csproj.GenerateResource.Cache
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\bin\Debug\quizgame.exe
+C:\Users\elebo\OneDrive\Desktop\quizgame\quizgame\bin\Debug\quizgame.pdb
